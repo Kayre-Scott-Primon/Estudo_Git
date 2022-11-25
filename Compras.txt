@@ -1,3 +1,6 @@
 1. arroz
 2. feijão
 3. carne
+4. Verduras
+5. Frutas
+6. Produtos de limpeza
