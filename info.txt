@@ -1,1 +1,3 @@
-Criado para estudo com git
+Criado para estudos sobre o git.
+
+Foi criado no dia 24/11/2022
